@@ -1,4 +1,4 @@
-# ShowApp - Application de Gestion de Films, Séries et Animes
+# ShowApp - Application de Gestion de Séries et Films
 
 Une application Flutter pour gérer vos séries, films et animes préférés.
 
@@ -53,6 +53,28 @@ lib/
 └── main.dart
 ```
 
+## Captures d'écran
+
+### Page d'accueil
+![Page d'accueil](assets/screenshots/home.png)
+*Affichage des shows par catégorie (films, séries, animes)*
+
+### Ajout d'un show
+![Ajout d'un show](assets/screenshots/add_show.png)
+*Formulaire d'ajout d'un nouveau show avec image*
+
+### Modification d'un show
+![Modification d'un show](assets/screenshots/edit_show.png)
+*Édition des détails d'un show existant*
+
+### Profil utilisateur
+![Profil utilisateur](assets/screenshots/profile.png)
+*Gestion du profil utilisateur*
+
+### Liste des shows
+![Liste des shows](assets/screenshots/shows_list.png)
+*Affichage de tous les shows avec possibilité de swipe pour éditer/supprimer*
+
 ## Configuration
 
 1. Assurez-vous d'avoir Flutter installé sur votre machine
@@ -78,19 +100,19 @@ Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue sur GitHub
 
 ---
 
-## �� Fonctionnalités
+## Fonctionnalités
 
-- 🔐 **Connexion utilisateur** via l’API (authentification avec token JWT)
+- 🔐 **Connexion utilisateur** via l'API (authentification avec token JWT)
 - 📄 **Affichage dynamique** des shows (classés par catégorie : films, animés, séries)
 - ➕ **Ajout de show** (titre, description, catégorie, image)
-- ✏️ **Mise à jour d’un show existant**
+- ✏️ **Mise à jour d'un show existant**
 - ❌ **Suppression avec confirmation** (balayage latéral)
-- 📸 **Sélection d’image** depuis la galerie ou l’appareil photo
+- 📸 **Sélection d'image** depuis la galerie ou l'appareil photo
 - 🔄 **Rafraîchissement automatique** après chaque opération
 
 ---
 
-## 🧱 Structure du Projet
+## Structure du Projet
 
 ```bash
 .
