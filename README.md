@@ -2,28 +2,56 @@
 
 Une application Flutter pour gérer vos séries, films et animes préférés.
 
-## Fonctionnalités
+## 📱 Captures d'écran
 
-- Authentification utilisateur
-- Gestion des shows (films, séries, animes)
-- Ajout, modification et suppression de shows
-- Interface utilisateur intuitive et responsive
-- Stockage local des données
-- Support multi-plateforme (Web, Android, iOS)
+### 🎬 Page d'accueil
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <img src="assets/screenshots/show_tv_show.png" alt="Liste des séries" width="250"/>
+  <img src="assets/screenshots/show_movie.png" alt="Liste des films" width="250"/>
+  <img src="assets/screenshots/show_anime.png" alt="Liste des animes" width="250"/>
+</div>
 
-## Technologies Utilisées
+### 👤 Gestion du profil
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <img src="assets/screenshots/edit_profile_1.png" alt="Page de profil" width="250"/>
+  <img src="assets/screenshots/edit_profile_2.png" alt="Modification du profil" width="250"/>
+</div>
 
-- Flutter
-- Dart
+### ✏️ Modification d'un show
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <img src="assets/screenshots/edit_movie_icon.png" alt="Icône de modification" width="250"/>
+  <img src="assets/screenshots/edit_movie_page__update_page.png" alt="Page de modification" width="250"/>
+</div>
+
+### ➕ Ajout d'un show
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <img src="assets/screenshots/add_tv_show.png" alt="Page d'ajout de show" width="250"/>
+</div>
+
+## ✨ Fonctionnalités
+
+- 🔐 **Authentification utilisateur** avec stockage sécurisé du token
+- 📱 **Interface responsive** et intuitive
+- 🎭 **Gestion des catégories** (Films, Séries, Animes)
+- ➕ **Ajout de shows** avec image, titre, description et catégorie
+- ✏️ **Modification des shows** existants
+- 🗑️ **Suppression de shows** avec confirmation
+- 👤 **Gestion du profil** utilisateur
+- 🔄 **Actualisation automatique** après chaque action
+
+## 🛠️ Technologies Utilisées
+
+- Flutter & Dart
 - HTTP pour les requêtes API
 - Shared Preferences pour le stockage local
 - Provider pour la gestion d'état
+- Support multi-plateforme (Web, Android, iOS)
 
-## Installation
+## 🚀 Installation
 
 1. Clonez le dépôt :
 ```bash
-git clone [URL_DU_REPO]
+git clone https://github.com/KamalAassab/showapp-flutter.git
 ```
 
 2. Installez les dépendances :
@@ -36,7 +64,7 @@ flutter pub get
 flutter run
 ```
 
-## Structure du Projet
+## 📁 Structure du Projet
 
 ```
 lib/
@@ -53,39 +81,7 @@ lib/
 └── main.dart
 ```
 
-## Captures d'écran
-
-### Page d'accueil
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <img src="assets/screenshots/show_tv_show.png" alt="Liste des séries" width="200"/>
-  <img src="assets/screenshots/show_movie.png" alt="Liste des films" width="200"/>
-  <img src="assets/screenshots/show_anime.png" alt="Liste des animes" width="200"/>
-</div>
-
-### Gestion du profil
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <img src="assets/screenshots/edit_profile_1.png" alt="Page de profil" width="200"/>
-  <img src="assets/screenshots/edit_profile_2.png" alt="Modification du profil" width="200"/>
-</div>
-
-### Modification d'un show
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <img src="assets/screenshots/edit_move_icon.png" alt="Icône de modification" width="200"/>
-  <img src="assets/screenshots/edit_movie_page__update_page.png" alt="Page de modification" width="200"/>
-</div>
-
-### Ajout d'un show
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <img src="assets/screenshots/add_tv_show.png" alt="Page d'ajout de show" width="200"/>
-</div>
-
-## Configuration
-
-1. Assurez-vous d'avoir Flutter installé sur votre machine
-2. Configurez votre éditeur de code préféré (VS Code ou Android Studio)
-3. Installez les extensions Flutter et Dart
-
-## Contribution
+## 🤝 Contribution
 
 Les contributions sont les bienvenues ! N'hésitez pas à :
 1. Fork le projet
@@ -94,11 +90,11 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 4. Pousser vers la branche
 5. Ouvrir une Pull Request
 
-## Licence
+## 📄 Licence
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
-## Contact
+## 📧 Contact
 
 Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue sur GitHub.
 
