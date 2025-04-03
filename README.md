@@ -57,26 +57,26 @@ lib/
 
 ### Page d'accueil
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <img src="assets/show_tv_show.png" alt="Liste des séries" width="200"/>
-  <img src="assets/show_movie.png" alt="Liste des films" width="200"/>
-  <img src="assets/show_anime.png" alt="Liste des animes" width="200"/>
+  <img src="assets/screenshots/show_tv_show.png" alt="Liste des séries" width="200"/>
+  <img src="assets/screenshots/show_movie.png" alt="Liste des films" width="200"/>
+  <img src="assets/screenshots/show_anime.png" alt="Liste des animes" width="200"/>
 </div>
 
 ### Gestion du profil
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <img src="assets/edit_profile_1.png" alt="Page de profil" width="200"/>
-  <img src="assets/edit_profile_2.png" alt="Modification du profil" width="200"/>
+  <img src="assets/screenshots/edit_profile_1.png" alt="Page de profil" width="200"/>
+  <img src="assets/screenshots/edit_profile_2.png" alt="Modification du profil" width="200"/>
 </div>
 
 ### Modification d'un show
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <img src="assets/edit_move_icon.png" alt="Icône de modification" width="200"/>
-  <img src="assets/edit_movie_page__update_page.png" alt="Page de modification" width="200"/>
+  <img src="assets/screenshots/edit_move_icon.png" alt="Icône de modification" width="200"/>
+  <img src="assets/screenshots/edit_movie_page__update_page.png" alt="Page de modification" width="200"/>
 </div>
 
 ### Ajout d'un show
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <img src="assets/add_tv_show.png" alt="Page d'ajout de show" width="200"/>
+  <img src="assets/screenshots/add_tv_show.png" alt="Page d'ajout de show" width="200"/>
 </div>
 
 ## Configuration
