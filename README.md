@@ -1,4 +1,4 @@
-# ShowApp - Application de Gestion de Séries et Films
+# ShowApp - Application de Gestion de Films, Séries et Animes
 
 Une application Flutter pour gérer vos séries, films et animes préférés.
 
