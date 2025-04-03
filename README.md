@@ -56,19 +56,23 @@ lib/
 ## Captures d'écran
 
 ### Page d'accueil
-![Page d'accueil](assets/screenshots/home.png)
+![Page d'accueil - Films](assets/screenshots/show movie.png)
+![Page d'accueil - Séries](assets/screenshots/show tv show.png)
+![Page d'accueil - Animes](assets/screenshots/show anime.png)
 *Affichage des shows par catégorie (films, séries, animes)*
 
 ### Ajout d'un show
-![Ajout d'un show](assets/screenshots/add_show.png)
+![Ajout d'un show](assets/screenshots/add tv show.png)
 *Formulaire d'ajout d'un nouveau show avec image*
 
 ### Modification d'un show
-![Modification d'un show](assets/screenshots/edit_show.png)
+![Modification d'un show - Page](assets/screenshots/edit movie page ( update page).png)
+![Modification d'un show - Icône](assets/screenshots/edit move icon.png)
 *Édition des détails d'un show existant*
 
 ### Profil utilisateur
-![Profil utilisateur](assets/screenshots/profile.png)
+![Profil utilisateur - Édition 1](assets/screenshots/edit profile 1.png)
+![Profil utilisateur - Édition 2](assets/screenshots/edit profile 2.png)
 *Gestion du profil utilisateur*
 
 ### Liste des shows
